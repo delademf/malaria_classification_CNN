@@ -1,5 +1,3 @@
-Certainly! A README file is crucial for providing information and guidance on your project. Here's a simple README template for the CNN-based Malaria Detection project:
-
 ---
 
 # Malaria Detection using Convolutional Neural Network (CNN)
